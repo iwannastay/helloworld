@@ -11,9 +11,9 @@ pip3 install --upgrade pip
 
 python src.py
 
-cp compile.log /data/algorithmLog/
-cp README.md /data/algorithmReadme/
-cp run.py /data/algorithmExe/
-cp demo.txt /data/algorithmDemo/
+cp compile.log /tmp/algorithmLog/
+cp README.md /tmp/algorithmReadme/
+cp run.py /tmp/algorithmExe/
+cp demo.txt /tmp/algorithmDemo/
 
 echo 'compile complete.'
