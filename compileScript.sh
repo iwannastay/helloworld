@@ -15,3 +15,5 @@ cp compile.log /data/algorithmLog/
 cp README.md /data/algorithmReadme/
 cp run.py /data/algorithmExe/
 cp demo.txt /data/algorithmDemo/
+
+echo 'compile complete.'
