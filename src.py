@@ -17,7 +17,7 @@ def main():
     for i in range(1):
         time.sleep(1)
     print_log()
-    print("hello world!")
+    print("I'm the src to be compiled.")
 
 
 if __name__ == "__main__":
