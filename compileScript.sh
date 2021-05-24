@@ -11,6 +11,7 @@
 
 # python src.py
 
+cd /gitCompProject
 cp compile.log /tmp/algorithmLog/
 cp README.md /tmp/algorithmReadme/
 cp run.py /tmp/algorithmExe/
