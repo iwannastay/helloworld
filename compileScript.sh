@@ -12,9 +12,9 @@
 # python src.py
 
 cd /gitCompProject
-cp compile.log /tmp/algorithmLog/
-cp README.md /tmp/algorithmReadme/
-cp run.py /tmp/algorithmExe/
-cp demo.txt /tmp/algorithmDemo/
+cp compile.log /tmp/LOG/
+cp README.md /tmp/README/
+cp run.py /tmp/SDK/
+cp demo.txt /tmp/DEMO/
 
 echo 'compile complete.'
