@@ -17,6 +17,6 @@ cp README.md /tmp/README/
 cp run.py /tmp/SDK/
 cp demo.txt /tmp/DEMO/
 
-while true;do sleep 10; done;
+# while true;do sleep 10; done;
 
 echo 'compile complete.'
