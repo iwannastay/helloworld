@@ -12,10 +12,10 @@
 # python src.py
 
 cd /gitCompProject
-cp compile.log /tmp/LOG/
-cp README.md /tmp/README/
-cp run.py /tmp/SDK/
-cp demo.txt /tmp/DEMO/
+cp compile.log /CompileData/LOG/
+cp README.md /CompileData/README/
+cp run.py /CompileData/SDK/
+cp demo.txt /CompileData/DEMO/
 
 # while true;do sleep 10; done;
 
